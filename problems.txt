@@ -1,0 +1,19 @@
+Observations concerning the application:
+
+25-06-2015	DIRN	Currently the application makes doesn't discriminate between rendering
+					actions and processing actions. Both are requested via URL. As as result
+					rendering actions are generally not mapped to processing request and
+					therefore produce a line in the error-log.
+
+22-05-2015	DIRN *	When a user fills out and submits a form, the data entered by the user
+					is not stored. Currently the original form is presented back to the user.
+					
+					[SOLVED] See syllabus.						
+					
+19-05-2015	DIRN	In the rendering scripts PHP logic, templating and interaction with
+					the database is intertwined. This is bad from the perspective of
+					maintainability. We need to think of ways how to improve this.
+
+18-05-2015	DIRN	The processing scripts show repetition of code. This is bas from the per-
+					spective of maintainablity and code-reuse.
+					

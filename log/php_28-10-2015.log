@@ -1,0 +1,260 @@
+2015-10-28T13:51:31+01:00	log_message():	Processing action request: home
+2015-10-28T13:51:34+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:51:34+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:51:42+01:00	log_message():	Processing action request: home
+2015-10-28T13:51:43+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:51:43+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:51:50+01:00	log_message():	No mapping for requested action/process: displayAddCustomer
+2015-10-28T13:51:53+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:51:53+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:51:56+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:51:56+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:51:58+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:51:58+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:52:00+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:52:00+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:52:01+01:00	log_message():	Processing action request: home
+2015-10-28T13:52:07+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:52:07+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:52:11+01:00	log_message():	Processing action request: home
+2015-10-28T13:52:12+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:52:12+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:52:13+01:00	log_message():	Processing action request: home
+2015-10-28T13:52:14+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:52:14+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:52:19+01:00	log_message():	No mapping for requested action/process: displayEditCustomer
+2015-10-28T13:52:24+01:00	log_message():	Processing action request: updateCustomer
+2015-10-28T13:52:24+01:00	log_message():	No mapping for requested rendering/process. updateCustomer Redirecting to defaultaction.
+2015-10-28T13:52:26+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:52:26+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:52:30+01:00	log_message():	Processing action request: deleteCustomer
+2015-10-28T13:52:31+01:00	mysqli_execute(): (23000/1451): Cannot delete or update a parent row: a foreign key constraint fails (`studie_week5`.`bestelling`, CONSTRAINT `bestelling_ibfk_1` FOREIGN KEY (`Wcode`) REFERENCES `winkel` (`Wcode`))
+2015-10-28T13:52:31+01:00	2	Unknown error type: [2] mysqli_execute(): (23000/1451): Cannot delete or update a parent row: a foreign key constraint fails (`studie_week5`.`bestelling`, CONSTRAINT `bestelling_ibfk_1` FOREIGN KEY (`Wcode`) REFERENCES `winkel` (`Wcode`))
+2015-10-28T13:52:31+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:52:31+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:52:36+01:00	log_message():	Processing action request: deleteCustomer
+2015-10-28T13:52:36+01:00	mysqli_execute(): (23000/1451): Cannot delete or update a parent row: a foreign key constraint fails (`studie_week5`.`bestelling`, CONSTRAINT `bestelling_ibfk_1` FOREIGN KEY (`Wcode`) REFERENCES `winkel` (`Wcode`))
+2015-10-28T13:52:36+01:00	2	Unknown error type: [2] mysqli_execute(): (23000/1451): Cannot delete or update a parent row: a foreign key constraint fails (`studie_week5`.`bestelling`, CONSTRAINT `bestelling_ibfk_1` FOREIGN KEY (`Wcode`) REFERENCES `winkel` (`Wcode`))
+2015-10-28T13:52:36+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:52:36+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:52:40+01:00	log_message():	Processing action request: deleteCustomer
+2015-10-28T13:52:40+01:00	mysqli_execute(): (23000/1451): Cannot delete or update a parent row: a foreign key constraint fails (`studie_week5`.`bestelling`, CONSTRAINT `bestelling_ibfk_1` FOREIGN KEY (`Wcode`) REFERENCES `winkel` (`Wcode`))
+2015-10-28T13:52:40+01:00	2	Unknown error type: [2] mysqli_execute(): (23000/1451): Cannot delete or update a parent row: a foreign key constraint fails (`studie_week5`.`bestelling`, CONSTRAINT `bestelling_ibfk_1` FOREIGN KEY (`Wcode`) REFERENCES `winkel` (`Wcode`))
+2015-10-28T13:52:40+01:00	log_message():	No mapping for requested action/process: showCustomers
+2015-10-28T13:52:40+01:00	log_message():	Backtrace: displayAllCustomers() called. 
+2015-10-28T13:57:45+01:00	log_message():	Processing action request: home
+2015-10-28T14:00:17+01:00	log_message():	Processing action request: home
+2015-10-28T14:00:28+01:00	log_message():	Processing action request: home
+2015-10-28T14:00:49+01:00	log_message():	Processing action request: home
+2015-10-28T14:01:42+01:00	log_message():	Processing action request: home
+2015-10-28T14:01:49+01:00	log_message():	Processing action request: home
+2015-10-28T14:04:56+01:00	log_message():	Processing action request: home
+2015-10-28T14:04:56+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:04:56+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:05:57+01:00	log_message():	Processing action request: home
+2015-10-28T14:05:57+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:05:57+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:06:34+01:00	log_message():	Processing action request: home
+2015-10-28T14:06:34+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:06:34+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:07:58+01:00	log_message():	Processing action request: home
+2015-10-28T14:07:58+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:07:58+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:08:18+01:00	log_message():	Processing action request: home
+2015-10-28T14:08:18+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:08:18+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:08:29+01:00	log_message():	Processing action request: home
+2015-10-28T14:08:29+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:08:29+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:08:55+01:00	log_message():	Processing action request: home
+2015-10-28T14:08:55+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:08:55+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:09:10+01:00	log_message():	Processing action request: home
+2015-10-28T14:09:10+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:09:10+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:09:38+01:00	log_message():	Processing action request: home
+2015-10-28T14:09:38+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:09:38+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:09:54+01:00	log_message():	Processing action request: home
+2015-10-28T14:09:54+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:09:54+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:11:04+01:00	log_message():	Processing action request: home
+2015-10-28T14:11:04+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:11:04+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:13:38+01:00	log_message():	Processing action request: home
+2015-10-28T14:13:38+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:13:38+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:14:27+01:00	log_message():	Processing action request: home
+2015-10-28T14:14:27+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:14:27+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:15:59+01:00	log_message():	Processing action request: home
+2015-10-28T14:15:59+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:15:59+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:16:15+01:00	log_message():	Processing action request: home
+2015-10-28T14:16:15+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:16:15+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:16:32+01:00	log_message():	Processing action request: home
+2015-10-28T14:16:32+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:16:32+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:16:37+01:00	log_message():	Processing action request: home
+2015-10-28T14:16:37+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:16:37+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:17:11+01:00	log_message():	Processing action request: home
+2015-10-28T14:17:11+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:17:11+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:17:41+01:00	log_message():	Processing action request: home
+2015-10-28T14:17:41+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:17:41+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:09+01:00	log_message():	Processing action request: home
+2015-10-28T14:18:09+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:09+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:10+01:00	log_message():	Processing action request: home
+2015-10-28T14:18:10+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:10+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:12+01:00	log_message():	Processing action request: home
+2015-10-28T14:18:12+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:12+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:13+01:00	log_message():	Processing action request: home
+2015-10-28T14:18:13+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:13+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:19+01:00	log_message():	Processing action request: home
+2015-10-28T14:18:19+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:19+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:52+01:00	log_message():	Processing action request: home
+2015-10-28T14:18:52+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:18:52+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:19:03+01:00	log_message():	Processing action request: home
+2015-10-28T14:19:03+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:19:03+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:23:18+01:00	log_message():	Processing action request: home
+2015-10-28T14:23:18+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:23:18+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:23:50+01:00	log_message():	Processing action request: home
+2015-10-28T14:23:50+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:23:50+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:24:10+01:00	log_message():	Processing action request: home
+2015-10-28T14:24:10+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:24:10+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:24:25+01:00	log_message():	Processing action request: home
+2015-10-28T14:24:25+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:24:25+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:24:47+01:00	log_message():	Processing action request: home
+2015-10-28T14:24:47+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:24:47+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:24:49+01:00	log_message():	Processing action request: home
+2015-10-28T14:24:49+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:24:49+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:26:01+01:00	log_message():	Processing action request: home
+2015-10-28T14:26:01+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:26:01+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:26:17+01:00	log_message():	Processing action request: home
+2015-10-28T14:26:17+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:26:17+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:26:48+01:00	log_message():	Processing action request: home
+2015-10-28T14:26:48+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:26:48+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:28:37+01:00	log_message():	Processing action request: home
+2015-10-28T14:28:37+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:28:37+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:29:19+01:00	log_message():	Processing action request: home
+2015-10-28T14:29:19+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:29:19+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:17+01:00	log_message():	Processing action request: home
+2015-10-28T14:30:17+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:17+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:38+01:00	log_message():	Processing action request: home
+2015-10-28T14:30:38+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:38+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:38+01:00	log_message():	Processing action request: home
+2015-10-28T14:30:38+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:38+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:42+01:00	log_message():	Processing action request: home
+2015-10-28T14:30:42+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:42+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:51+01:00	log_message():	Processing action request: home
+2015-10-28T14:30:51+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:51+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:52+01:00	log_message():	Processing action request: home
+2015-10-28T14:30:52+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:30:52+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:31:28+01:00	log_message():	Processing action request: home
+2015-10-28T14:31:28+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:31:28+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:31:29+01:00	log_message():	Processing action request: home
+2015-10-28T14:31:29+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:31:29+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:31:43+01:00	log_message():	Processing action request: home
+2015-10-28T14:31:43+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:31:43+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:31:54+01:00	log_message():	Processing action request: home
+2015-10-28T14:31:54+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:31:54+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:32:27+01:00	log_message():	Processing action request: home
+2015-10-28T14:32:27+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:32:27+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:32:59+01:00	log_message():	Processing action request: home
+2015-10-28T14:32:59+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:32:59+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:34:03+01:00	log_message():	Processing action request: home
+2015-10-28T14:34:03+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:34:03+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:34:41+01:00	log_message():	Processing action request: home
+2015-10-28T14:34:41+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:34:41+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:35:10+01:00	log_message():	Processing action request: home
+2015-10-28T14:35:10+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:35:10+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:35:32+01:00	log_message():	Processing action request: home
+2015-10-28T14:35:32+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:35:32+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:35:39+01:00	log_message():	Processing action request: home
+2015-10-28T14:35:39+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:35:39+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:35:43+01:00	log_message():	Processing action request: home
+2015-10-28T14:35:43+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:35:43+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:36:27+01:00	log_message():	Processing action request: home
+2015-10-28T14:36:27+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:36:27+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:36:34+01:00	log_message():	Processing action request: home
+2015-10-28T14:36:34+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:36:34+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:37:37+01:00	log_message():	Processing action request: home
+2015-10-28T14:37:37+01:00	Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:37:37+01:00	8	Unknown error type: [8] Use of undefined constant LOGGED_IN - assumed 'LOGGED_IN'
+2015-10-28T14:40:37+01:00	log_message():	Processing action request: home
+2015-10-28T14:40:38+01:00	log_message():	Processing action request: home
+2015-10-28T14:40:48+01:00	log_message():	Processing action request: home
+2015-10-28T14:40:49+01:00	log_message():	Processing action request: home
+2015-10-28T14:41:37+01:00	log_message():	Processing action request: home
+2015-10-28T14:41:44+01:00	log_message():	Processing action request: home
+2015-10-28T14:41:54+01:00	log_message():	Processing action request: home
+2015-10-28T14:42:13+01:00	log_message():	Processing action request: home
+2015-10-28T14:42:19+01:00	log_message():	Processing action request: home
+2015-10-28T14:43:59+01:00	log_message():	Processing action request: home
+2015-10-28T14:44:26+01:00	log_message():	Processing action request: home
+2015-10-28T14:44:27+01:00	log_message():	Processing action request: home
+2015-10-28T14:44:39+01:00	log_message():	Processing action request: home
+2015-10-28T14:44:40+01:00	log_message():	Processing action request: home
+2015-10-28T14:44:41+01:00	log_message():	No mapping for requested action/process: products
+2015-10-28T14:44:41+01:00	log_message():	No mapping for requested rendering/process. products Redirecting to defaultaction.
+2015-10-28T14:44:42+01:00	log_message():	Processing action request: home
+2015-10-28T14:44:43+01:00	log_message():	No mapping for requested action/process: products
+2015-10-28T14:44:43+01:00	log_message():	No mapping for requested rendering/process. products Redirecting to defaultaction.
+2015-10-28T14:44:45+01:00	log_message():	No mapping for requested action/process: login
+2015-10-28T14:44:45+01:00	log_message():	No mapping for requested rendering/process. login Redirecting to defaultaction.
+2015-10-28T14:44:46+01:00	log_message():	Processing action request: home
+2015-10-28T14:48:51+01:00	log_message():	Processing action request: home
+2015-10-28T14:48:57+01:00	log_message():	Processing action request: home
+2015-10-28T14:48:58+01:00	log_message():	Processing action request: home
+2015-10-28T14:49:21+01:00	log_message():	Processing action request: home
+2015-10-28T14:49:38+01:00	log_message():	Processing action request: home
+2015-10-28T14:49:49+01:00	log_message():	No mapping for requested action/process: createcustomer
+2015-10-28T14:49:49+01:00	log_message():	No mapping for requested rendering/process. createcustomer Redirecting to defaultaction.
+2015-10-28T14:49:50+01:00	log_message():	No mapping for requested action/process: login
+2015-10-28T14:49:50+01:00	log_message():	No mapping for requested rendering/process. login Redirecting to defaultaction.
+2015-10-28T14:58:40+01:00	log_message():	No mapping for requested action/process: products
+2015-10-28T14:58:40+01:00	log_message():	No mapping for requested rendering/process. products Redirecting to defaultaction.
+2015-10-28T14:58:40+01:00	log_message():	Processing action request: home
+2015-10-28T14:58:41+01:00	log_message():	No mapping for requested action/process: products
+2015-10-28T14:58:41+01:00	log_message():	No mapping for requested rendering/process. products Redirecting to defaultaction.
